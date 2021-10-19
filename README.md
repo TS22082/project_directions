@@ -4,6 +4,9 @@
 
 You will build a basic E-commerce application using the Fake Store API to retrieve product data.
 
+## Use fake products api
+ - https://fakestoreapi.com/
+
 ## The app will have the following 4 pages:
 
 - Products page
