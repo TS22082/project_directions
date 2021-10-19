@@ -41,7 +41,7 @@ You will build a basic E-commerce application using the Fake Store API to retrie
 ## Use React Router to handle navigation between pages
 
 - / → Products Page
-- /products/:id → Product Details Page
+- /product/:id → Product Details Page
 - /cart → Cart Page
 - /checkout → Checkout Page
 
